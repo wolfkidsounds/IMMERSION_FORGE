@@ -1,0 +1,33 @@
+{
+	title: "I've found some wood",
+	x: -4.0d,
+	y: -0.5d,
+	text: [
+		"I've found wood. Great!",
+		"",
+		"I really need to get started to secure my area. Maybe i can build something or find a cave somewhere.",
+		"",
+		"Good that I have a workbench to build some wooden tools and get going."
+	],
+	dependencies: [
+		"3d477c22"
+	],
+	tasks: [{
+		uid: "8b04b0c7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			}
+		}]
+	}]
+}

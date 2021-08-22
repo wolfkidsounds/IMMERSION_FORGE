@@ -1,0 +1,26 @@
+{
+	title: "Harder than wood",
+	x: -4.0d,
+	y: 1.0d,
+	dependencies: [
+		"7888a49c"
+	],
+	tasks: [{
+		uid: "80baee32",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "cobblestone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any cobblestone"
+				}
+			}
+		}]
+	}]
+}
