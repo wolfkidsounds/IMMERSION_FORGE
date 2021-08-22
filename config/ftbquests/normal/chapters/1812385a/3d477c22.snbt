@@ -1,4 +1,5 @@
 {
+	title: "I have arrived",
 	x: -4.0d,
 	y: -2.0d,
 	text: [
@@ -13,7 +14,7 @@
 	tasks: [{
 		uid: "6f1f29b3",
 		type: "observation",
-		title: "I have arrived",
+		title: "Campfire",
 		icon: "toughasnails:campfire",
 		match_type: "block_id",
 		match: "toughasnails:campfire",

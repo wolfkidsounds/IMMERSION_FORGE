@@ -1,0 +1,24 @@
+{
+	title: "Unfriendly Neighbours",
+	x: -4.0d,
+	y: 0.0d,
+	text: [
+		"There are a lot of these zombies around.",
+		"",
+		"I really need to figure out a way to survive against these monsters!",
+		"",
+		"I have seen in the manual that there are machines and weapons that could help me. However I need to secure my location first!"
+	],
+	dependencies: [
+		"6e36837c"
+	],
+	tasks: [{
+		uid: "5d950f54",
+		type: "observation",
+		title: "Zombie",
+		icon: "minecraft:skull 1 2",
+		match_type: "entity_id",
+		match: "minecraft:zombie",
+		timer: 0L
+	}]
+}
