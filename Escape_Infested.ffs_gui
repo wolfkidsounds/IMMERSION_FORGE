@@ -31,6 +31,10 @@
             <Item>*\logs\</Item>
             <Item>*\memory_repo\</Item>
             <Item>*\saves\</Item>
+            <Item>*.ffs_gui</Item>
+            <Item>*\.git\</Item>
+            <Item>*.gitattributes</Item>
+            <Item>*\crash-reports\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>

@@ -1,0 +1,22 @@
+{
+	x: -4.0d,
+	y: -2.0d,
+	text: [
+		"Finally - I have arrived.",
+		"",
+		"After running in the dark for hours from those pesky zombies. I have arrived at the campsite that was described by the old guy from the factory.",
+		"",
+		"The Federation has provided me with the details on what i need to do for them. The concept is basic, like always. We need to provide energy to the core.",
+		"",
+		"I have already set up a small campfire and unpacked some of the crates. A small Solar Panel was in there too."
+	],
+	tasks: [{
+		uid: "6f1f29b3",
+		type: "observation",
+		title: "I have arrived",
+		icon: "toughasnails:campfire",
+		match_type: "block_id",
+		match: "toughasnails:campfire",
+		timer: 0L
+	}]
+}

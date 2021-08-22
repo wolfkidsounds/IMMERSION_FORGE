@@ -47,10 +47,6 @@ immersiveengineering:sticky
 immersiveengineering:stunned
 immersiveengineering:concretefeet
 immersiveengineering:flashed
-lbm:effectconfusion
-lbm:effectlightbleed
-lbm:effectheavybleed
-raiders:bruteserum
 immersiveintelligence:suppression
 immersiveintelligence:broken_armor
 immersiveintelligence:corrosion
