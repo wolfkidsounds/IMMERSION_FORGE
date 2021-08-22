@@ -35,6 +35,7 @@
             <Item>*\.git\</Item>
             <Item>*.gitattributes</Item>
             <Item>*\crash-reports\</Item>
+            <Item>*\backups\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
