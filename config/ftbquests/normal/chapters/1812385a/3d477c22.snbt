@@ -19,5 +19,12 @@
 		match_type: "block_id",
 		match: "toughasnails:campfire",
 		timer: 0L
+	}],
+	rewards: [{
+		uid: "659d51d3",
+		type: "command",
+		auto: "invisible",
+		command: "/playsound escapeutils:a1 player @p",
+		player_command: true
 	}]
 }

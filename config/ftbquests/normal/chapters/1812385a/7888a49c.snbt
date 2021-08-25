@@ -1,6 +1,6 @@
 {
 	title: "I've found some wood",
-	x: -5.0d,
+	x: -4.5d,
 	y: -1.0d,
 	text: [
 		"I've found wood. Great!",

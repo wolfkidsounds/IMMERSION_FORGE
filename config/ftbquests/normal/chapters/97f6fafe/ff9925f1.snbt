@@ -1,0 +1,19 @@
+{
+	title: "Mutations_Stage_1",
+	icon: "minecraft:skull 1 2",
+	x: -7.5d,
+	y: -5.5d,
+	text: [
+		"I saw some horrible things in this laboratory.",
+		"",
+		"Most of the mutations seemed extremely rare. But I have a bad feeling now that I have encountered that these even exist."
+	],
+	rewards: [{
+		uid: "866dcee0",
+		type: "gamestage",
+		title: "Mutations_Stage1",
+		icon: "mutantbeasts:mutant_skeleton_chestplate",
+		auto: "invisible",
+		stage: "m1"
+	}]
+}

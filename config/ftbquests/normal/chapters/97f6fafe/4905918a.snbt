@@ -1,0 +1,19 @@
+{
+	title: "Skeletons_Stage",
+	icon: "mutantbeasts:mutant_skeleton_rib_cage",
+	x: -9.0d,
+	y: -5.5d,
+	text: [
+		"I have killed so many zombies already. I have seen them mutate further into beasts.",
+		"",
+		"It seems like they start to arrive from the dead again. This is insane. I have to fight bare skeletons?"
+	],
+	rewards: [{
+		uid: "85b41bd4",
+		type: "gamestage",
+		title: "Further Mutations",
+		icon: "minecraft:skull",
+		auto: "invisible",
+		stage: "z1"
+	}]
+}
