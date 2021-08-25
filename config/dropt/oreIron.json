@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "match": {
+        "drops": {
+          "drops": [
+             "minecraft:iron_ore"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items": [
+              "geolosys:cluster"
+            ],
+            "matchQuantity": {
+              "drops": [
+                 "minecraft:iron_ore"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
