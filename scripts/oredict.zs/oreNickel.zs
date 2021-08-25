@@ -2,43 +2,43 @@ import crafttweaker.item.IItemStack;
 
 //iron
     //ore
-        var MainOre = <minecraft:iron_ore>;
+        var MainOre = <immersiveengineering:ore:4>;
 
     //Cluster
-        var Cluster = <geolosys:cluster>;
+        var Cluster = <geolosys:cluster:7>;
 
     //RockyChunks
-        var ChunkRocky = <magneticraft:rocky_chunks>;
+        var ChunkRocky = <magneticraft:rocky_chunks:10>;
 
     //CleanChunks
-        var ChunkClean = <magneticraft:chunks>;
+        var ChunkClean = <magneticraft:chunks:10>;
 
     //Dust
-        var Dust = <immersiveengineering:metal:18>;
+        var Dust = <immersiveengineering:metal:13>;
 
     //Ingot
-        var Ingot = <minecraft:iron_ingot>;
+        var Ingot = <geolosys:ingot:5>;
 
     //Nugget
-        var Nugget = <immersiveengineering:metal:29>;
+        var Nugget = <immersiveengineering:metal:24>;
     
     //Block
-        var Block = <minecraft:iron_block>;
+        var Block = <immersiveengineering:storage:4>;
 
     //Plate
-        var Plate = <immersiveengineering:metal:39>;
+        var Plate = <immersiveengineering:metal:34>;
 
-    //DoublePlate
-        var DoublePlate = <magneticraft:light_plates>;
+    ////DoublePlate
+    //    var DoublePlate = <magneticraft:light_plates>;
 
-    //HeavyPlate
-        var HeavyPlate = <magneticraft:heavy_plates>;
+    ////HeavyPlate
+    //    var HeavyPlate = <magneticraft:heavy_plates>;
     
     //Rod
-        var Rod = <immersiveengineering:material:1>;
+        var Rod = <immersiveposts:metal_rods:4>;
 
     //Extra
-        var Extra = <immersiveengineering:metal:13>; //NickelGrit
+        var Extra = <immersiveintelligence:material_dust:2>; //Platinum
 //___________________________________________________________
 
 //Sample -> Ore/Cluster -> RockyChunks*2 -> CleanChunks*2 -> Dust*2 -> Ingot -> Plate -> (2x Plate) -> DoublePlate -> (2x Double Plate) -> Heavy Plate
@@ -86,7 +86,7 @@ import crafttweaker.item.IItemStack;
         furnace.addRecipe(Ingot, Dust, 0.2);
 
     //DoublePlate
-        mods.immersiveengineering.MetalPress.addRecipe(DoublePlate, Plate, <immersiveengineering:mold>, 2048, 2);
+        //mods.immersiveengineering.MetalPress.addRecipe(DoublePlate, Plate, <immersiveengineering:mold>, 2048, 2);
 
     //HeavyPlate
-        mods.immersiveengineering.MetalPress.addRecipe(HeavyPlate, DoublePlate, <immersiveengineering:mold>, 4096, 2);
+        //mods.immersiveengineering.MetalPress.addRecipe(HeavyPlate, DoublePlate, <immersiveengineering:mold>, 4096, 2);
