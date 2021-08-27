@@ -1,0 +1,24 @@
+{
+    "rules": [
+      {
+        "match": {
+          "blocks": {
+            "blocks": [
+              "biomesoplenty:plant_0:1",
+              "minecraft:tallgrass:1",
+              "minecraft:double_plant:2",
+              "biomesoplenty:plant_0"
+            ]
+          },
+          "drops": {
+            "drops": [
+              "minecraft:wheat_seeds",
+              "immersiveengineering:seed"
+            ]
+          }
+        },
+        "replaceStrategy": "REPLACE_ITEMS",
+        "drops": [{}]
+      }
+    ]
+  }
