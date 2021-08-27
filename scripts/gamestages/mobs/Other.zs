@@ -11,5 +11,3 @@ mods.MobStages.addStage("other_pirates", "mozombies_wave:zombie_pirate");
 
 mods.MobStages.addStage("other_spider", "minecraft:spider");
 mods.MobStages.addStage("other_spider", "minecraft:cave_spider");
-
-mods.MobStages.addStage("other_glitch", "deepmoblearning:glitch");
