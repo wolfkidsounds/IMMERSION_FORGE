@@ -26,12 +26,6 @@ minecraft:levitation
 minecraft:luck
 minecraft:unluck
 biomesoplenty:curse
-toughasnails:hypothermia
-toughasnails:hyperthermia
-toughasnails:thirst
-toughasnails:cold_resistance
-toughasnails:heat_resistance
-toughasnails:hydration
 cyberware:neuropozyne
 cyberware:rejection
 quark:blue
@@ -47,6 +41,12 @@ immersiveengineering:sticky
 immersiveengineering:stunned
 immersiveengineering:concretefeet
 immersiveengineering:flashed
+simpledifficulty:hyperthermia
+simpledifficulty:hypothermia
+simpledifficulty:thirsty
+simpledifficulty:parasites
+simpledifficulty:cold_resist
+simpledifficulty:heat_resist
 immersiveintelligence:suppression
 immersiveintelligence:broken_armor
 immersiveintelligence:corrosion

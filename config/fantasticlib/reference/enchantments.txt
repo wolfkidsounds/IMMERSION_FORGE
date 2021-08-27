@@ -28,3 +28,5 @@ minecraft:luck_of_the_sea
 minecraft:lure
 minecraft:mending
 minecraft:vanishing_curse
+simpledifficulty:chilling
+simpledifficulty:heating
