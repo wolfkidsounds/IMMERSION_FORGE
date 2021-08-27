@@ -1,11 +1,10 @@
-//Fermenter
-//OutputStack, OutputFluid, InputStack, Time in Ticks
+import crafttweaker.item.IItemStack;
+
 print("Init 'immersiver_engineering_Fermenter.zs'");
 
 val ethanol = <liquid:ethanol>;
 val ammonia = <liquid:ammonia>;
 val seed = <immersiveengineering:seed>;
-
 
 # Ethanol
 val ethanolSmall = [
@@ -229,12 +228,12 @@ val ethanolLarge = [
     <harvestcraft:pamvanillabean>,
     <harvestcraft:pamwalnut> ] as IItemStack[];
 
-
 val ethanolSuper = [
     <harvestcraft:cornitem>,
     <harvestcraft:cornseeditem>,
     <harvestcraft:ryeitem>,
     <harvestcraft:ryeseeditem> ] as IItemStack[];
+
 
 for item in ethanolSmall {
     mods.immersiveengineering.Fermenter.addRecipe(seed, ethanol *100, item, 80);
@@ -251,8 +250,6 @@ for item in ethanolLarge {
 for item in ethanolSuper {
     mods.immersiveengineering.Fermenter.addRecipe(seed, ethanol *160, item, 270);
 }
-
-
 
 # Ammonia
 val ammoniaSmall = [
@@ -305,6 +302,8 @@ val ammoniaSuper = [
     <minecraft:fish>,
     <minecraft:fish:1> ] as IItemStack[];
 
+
+
 for item in ammoniaSmall {
     mods.immersiveengineering.Fermenter.addRecipe(seed, ammonia *120, item, 80);
 }
@@ -320,6 +319,5 @@ for item in ammoniaLarge {
 for item in ammoniaSuper {
     mods.immersiveengineering.Fermenter.addRecipe(seed, ammonia *180, item, 270);
 }
-
 
 print("Done 'immersiver_engineering_Fermenter.zs'");
