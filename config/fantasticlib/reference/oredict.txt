@@ -1965,5 +1965,5 @@ oreSteel
 oreAluminium
 oreMithril
 blockPlutonium
-blockYellorium
 blockBlutonium
+blockYellorium
