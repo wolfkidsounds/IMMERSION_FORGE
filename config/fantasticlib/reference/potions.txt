@@ -28,12 +28,6 @@ minecraft:unluck
 biomesoplenty:curse
 cyberware:neuropozyne
 cyberware:rejection
-quark:blue
-quark:black
-quark:white
-quark:resilience
-quark:curse
-quark:danger_sight
 immersiveengineering:flammable
 immersiveengineering:slippery
 immersiveengineering:conductive
@@ -41,6 +35,12 @@ immersiveengineering:sticky
 immersiveengineering:stunned
 immersiveengineering:concretefeet
 immersiveengineering:flashed
+quark:blue
+quark:black
+quark:white
+quark:resilience
+quark:curse
+quark:danger_sight
 simpledifficulty:hyperthermia
 simpledifficulty:hypothermia
 simpledifficulty:thirsty

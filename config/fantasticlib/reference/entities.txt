@@ -90,6 +90,13 @@ quark:frog
 quark:pirate
 quark:crab
 quark:wraith
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
+quark:gravisand
+quark:chest_passenger
+quark:seat
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
@@ -97,13 +104,6 @@ quark:arrow_torch
 quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
-quark:seat
-quark:chest_passenger
-quark:gravisand
 biomesoplenty:mudball
 biomesoplenty:bop_boat
 biomesoplenty:wasp
@@ -156,8 +156,6 @@ mozombies_wave:zombie_knight
 mozombies_wave:disco_zombie
 mozombies_wave:zombie_chef
 mozombies_wave:survivor
-coroutil:bat_smart
-corpse:corpse
 engineersdecor:chair_entity
 immersiveengineering:revolvershot
 immersiveengineering:skylinehook
@@ -168,6 +166,8 @@ immersiveengineering:railgunshot
 immersiveengineering:revolvershotflare
 immersiveengineering:explosive
 immersiveengineering:fluorescenttube
+coroutil:bat_smart
+corpse:corpse
 platforms:gui-item
 zombieawareness:entityscent
 immersiveintelligence:minecart_wooden_crate
