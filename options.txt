@@ -97,6 +97,8 @@ key_ir_keys.dead_mans_switch:55
 key_ir_keys.start_stop_engine:78
 key_ir_keys.bell:74
 key_ir_keys.config:181
+key_quark.keybind.toggleAutojump:48
+key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -122,8 +124,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:37
-key_quark.keybind.toggleAutojump:48
 key_key.betterfoliage.gui:66
 key_key.death_history:22
 key_cos.key.opencosarmorinventory:0
@@ -133,8 +133,10 @@ key_key.ftbquests.quests:0
 key_key.helmet_night_vision:34
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:47
-key_key.toggle_shaders:0
 key_key.toastcontrol.clear:36
+key_Strip World:211
+key_Dress World:210
+key_Inspect Block:199
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -196,8 +198,8 @@ key_key.journeymap.fullscreen.north:200
 key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.013245033
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
