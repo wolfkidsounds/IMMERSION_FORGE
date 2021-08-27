@@ -1,0 +1,27 @@
+{
+    "rules": [
+      {
+        "match": {
+          "drops": {
+            "drops": [
+               "immersiveengineering:ore"
+            ]
+          }
+        },
+        "drops": [
+          {
+            "item": {
+              "items": [
+                "geolosys:cluster:2"
+              ],
+              "matchQuantity": {
+                "drops": [
+                   "immersiveengineering:ore"
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
