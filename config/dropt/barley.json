@@ -1,0 +1,27 @@
+{
+    "rules": [
+      {
+        "match": {
+          "blocks": {
+            "blocks": [
+              "biomesoplenty:plant_1:11"
+            ]
+          }
+        },
+        "drops": [
+            {
+                "item": {
+                    "items": [
+                        "harvestcraft:barleyitem"
+                    ],
+                    "matchQuantity": {
+                        "drops": [
+                            "minecraft:wheat_seeds"
+                        ]
+                    }
+                }
+            }
+        ]
+      }
+    ]
+  }
