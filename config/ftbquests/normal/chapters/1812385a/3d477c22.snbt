@@ -15,7 +15,7 @@
 		uid: "6f1f29b3",
 		type: "observation",
 		title: "Campfire",
-		icon: "toughasnails:campfire",
+		icon: "simpledifficulty:campfire",
 		match_type: "block_id",
 		match: "toughasnails:campfire",
 		timer: 0L
