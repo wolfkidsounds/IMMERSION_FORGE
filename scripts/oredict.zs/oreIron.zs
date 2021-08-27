@@ -1,6 +1,8 @@
 //DONE
 import crafttweaker.item.IItemStack;
 
+print("Init: 'oreIron.zs'");
+
 //iron
     //ore
         var MainOre = <minecraft:iron_ore>;

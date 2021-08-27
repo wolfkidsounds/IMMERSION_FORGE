@@ -1,6 +1,8 @@
 //DONE
 import crafttweaker.item.IItemStack;
 
+print("Init: 'oreNickel.zs'");
+
 //iron
     //ore
         var MainOre = <immersiveengineering:ore:4>;
