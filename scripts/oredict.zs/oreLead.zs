@@ -3,43 +3,43 @@ import crafttweaker.item.IItemStack;
 
 //Iron
     //Ore
-        var MainOre = <minecraft:gold_ore>;
+        var MainOre = <immersiveengineering:ore:2>;
 
     //Cluster
-        var Cluster = <geolosys:cluster:1>;
+        var Cluster = <geolosys:cluster:5>;
 
     //RockyChunks
-        var ChunkRocky = <magneticraft:rocky_chunks:1>;
+        var ChunkRocky = <magneticraft:rocky_chunks:3>;
 
     //CleanChunks
-        var ChunkClean = <magneticraft:chunks:1>;
+        var ChunkClean = <magneticraft:chunks:3>;
 
     //Dust
-        var Dust = <immersiveengineering:metal:19>;
+        var Dust = <immersiveengineering:metal:11>;
 
     //Ingot
-        var Ingot = <minecraft:gold_ingot>;
+        var Ingot = <geolosys:ingot:3>;
 
     //Nugget
-        var Nugget = <minecraft:gold_nugget>;
+        var Nugget = <immersiveengineering:metal:22>;
 
     //Block
-        var Block = <minecraft:gold_block>;
+        var Block = <immersiveengineering:storage:2>;
 
     //Plate
-        var Plate = <immersiveengineering:metal:40>;
+        var Plate = <immersiveengineering:metal:32>;
 
     //DoublePlate
-        var DoublePlate = <magneticraft:light_plates:1>;
+        var DoublePlate = <magneticraft:light_plates:3>;
 
     //HeavyPlate
-        var HeavyPlate = <magneticraft:heavy_plates:1>;
+        var HeavyPlate = <magneticraft:heavy_plates:3>;
 
     //Rod
-        var Rod = <immersiveposts:metal_rods>;
+        var Rod = <immersiveposts:metal_rods:2>;
 
     //Extra
-        var Extra = <immersiveengineering:metal:9>; //CopperGrit
+        var Extra = <immersiveengineering:metal:12>; //SilverGrit
 //____
 
 //Sample -> Ore/Cluster -> RockyChunks*2 -> CleanChunks*2 -> Dust*2 -> Ingot -> Plate -> (2x Plate) -> DoublePlate -> (2x DoublePlate) -> HeavyPlate
