@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:0
+difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -86,17 +86,16 @@ key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_of.key.zoom:46
-key_ir_keys.increase_throttle:72
-key_ir_keys.zero_throttle:76
-key_ir_keys.decrease_throttle:80
-key_ir_keys.increase_brake:71
-key_ir_keys.zero_brake:75
-key_ir_keys.decrease_brake:79
-key_ir_keys.horn:156
-key_ir_keys.dead_mans_switch:55
-key_ir_keys.start_stop_engine:78
-key_ir_keys.bell:74
-key_ir_keys.config:181
+key_keybind.railcraft.cart.bed:208
+key_quark.keybind.toggleAutojump:48
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -115,19 +114,15 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.toggleAutojump:48
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:37
 key_key.betterfoliage.gui:66
 key_key.death_history:22
 key_cos.key.opencosarmorinventory:0
 key_key.wearablebackpacks.open:48
+key_Scene1 start/pause:79
+key_Scene2 start/pause:80
+key_Scene3 start/pause:81
+key_Scene reset:82
+key_Quest Log:38
 key_keybinds.show_wounds:35
 key_key.ftbquests.quests:0
 key_key.helmet_night_vision:34
@@ -188,6 +183,11 @@ key_key.immersiveintelligence.manualReload:19
 key_key.immersiveintelligence.mgScope:44
 key_key.immersiveintelligence.motorbikeEngine:19
 key_key.immersiveintelligence.motorbikeTowing:44
+key_keybind.railcraft.loco.reverse:53:ALT
+key_keybind.railcraft.loco.faster:52:ALT
+key_keybind.railcraft.loco.slower:51:ALT
+key_keybind.railcraft.loco.mode:50:ALT
+key_keybind.railcraft.loco.whistle:49:ALT
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:26
@@ -204,17 +204,19 @@ key_key.journeymap.fullscreen.north:200
 key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
-soundCategory_master:0.013245033
+key_toolbelt.binding.access:47
+key_toolbelt.binding.restock:47:SHIFT
+soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
-soundCategory_block:1.0
+soundCategory_block:0.46478873
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
-soundCategory_ds_footsteps:1.0
+soundCategory_ds_footsteps:0.17605634
 soundCategory_ds_biome:1.0
 modelPart_cape:true
 modelPart_jacket:true
