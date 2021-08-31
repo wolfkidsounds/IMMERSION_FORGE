@@ -1,7 +1,7 @@
 {
 	title: "I have arrived",
-	x: -4.0d,
-	y: -2.0d,
+	x: 0.0d,
+	y: 0.0d,
 	text: [
 		"Finally - I have arrived.",
 		"",
@@ -12,18 +12,19 @@
 		"I have already set up a small campfire and unpacked some of the crates. A small Solar Panel was in there too."
 	],
 	tasks: [{
-		uid: "6f1f29b3",
+		uid: "00197245",
 		type: "observation",
 		title: "Campfire",
 		icon: "simpledifficulty:campfire",
 		match_type: "block_id",
-		match: "toughasnails:campfire",
+		match: "simpledifficulty:campfire",
 		timer: 0L
 	}],
 	rewards: [{
 		uid: "659d51d3",
 		type: "command",
-		auto: "invisible",
+		team_reward: false,
+		auto: "enabled",
 		command: "/playsound escapeutils:a1 player @p",
 		player_command: true
 	}]
