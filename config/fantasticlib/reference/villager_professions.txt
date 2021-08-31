@@ -5,5 +5,4 @@ minecraft:smith
 minecraft:butcher
 minecraft:nitwit
 rewired:runner
-railcraft:trackman
 immersiveengineering:engineer

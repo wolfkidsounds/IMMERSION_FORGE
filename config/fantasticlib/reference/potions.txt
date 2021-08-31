@@ -37,6 +37,8 @@ rustic:full
 rustic:magic_resistance
 rustic:wither_ward
 rustic:tipsy
+tetra:bleeding
+tetra:earthbound
 immersiveengineering:flammable
 immersiveengineering:slippery
 immersiveengineering:conductive
