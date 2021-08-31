@@ -3,11 +3,11 @@
 	x: 0.0d,
 	y: -2.0d,
 	text: [
-		"There are a lot of these zombies around.",
+		"I can not trust my eyes right now. - What are these?",
 		"",
-		"I really need to figure out a way to survive against these monsters!",
+		"I've never thought that the accident could have so much potential..",
 		"",
-		"I have seen in the manual that there are machines and weapons that could help me. However I need to secure my location first!"
+		"I need to secure myself and got out of here as fast as possible!"
 	],
 	tasks: [{
 		uid: "5d950f54",
