@@ -211,11 +211,11 @@ dustEnder
 dustVoid
 blockCoke
 toolSpikeMaul
-tallow
 buttonWood
 gemEnderBiotite
-mushroomAny
 materialStoneTool
+tallow
+mushroomAny
 blockSlimeGreen
 blockSlimeBlue
 blockSlimeRed
@@ -1882,6 +1882,7 @@ brickBurnLimestone
 stoneBurnLimestone
 stoneTileLimestone
 magneticraftHammer
+shardGlass
 trapdoorWood
 blockCandle
 pressurePlateWood
@@ -1893,7 +1894,6 @@ stoneBrimstonePolished
 stonePermafrostPolished
 blockPrismarineElderBrick
 blockPrismarineElderDark
-shardGlass
 blockSlimeCyan
 blockSlimeMagenta
 blockSlimeYellow
@@ -1971,15 +1971,15 @@ depositOreKimberlite
 depositOreBeryl
 depositOreHematite
 depositOreLimonite
-depositOreAzurite
 depositOreMalachite
+depositOreAzurite
 depositOreCassiterite
 depositOreTeallite
 depositOreGalena
 depositOreBauxite
 depositOrePlatinum
-depositOreAutunite
 depositOreGranite
+depositOreAutunite
 depositOreSphalerite
 blockCompactRawPorkchop
 dustBronze
