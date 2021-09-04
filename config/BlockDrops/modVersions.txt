@@ -137,6 +137,7 @@
   "immersiveengineering": "0.12-98",
   "questionablyimmersive": "@VERSION@",
   "usefulrailroads": "1.1.3.24",
+  "entity_culling": "4.1.5",
   "jade": "0.1.0",
   "applecore": "3.4.0",
   "rustic": "1.1.7",
