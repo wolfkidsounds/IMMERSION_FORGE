@@ -1,0 +1,26 @@
+[INFO] Registering Item Tooltip
+[INFO] Registered Item Tooltip
+[INFO] Registering blocks with Waila
+[INFO] Registered blocks with Waila
+[INFO] Registering entities with Waila
+[INFO] Registered entities with Waila
+[INFO] Registering Gui
+[INFO] Registered Gui
+[INFO] Registering Item Tooltip
+[INFO] Registered Item Tooltip
+[INFO] Registering blocks with Waila
+[INFO] Registered blocks with Waila
+[INFO] Registering entities with Waila
+[INFO] Registered entities with Waila
+[INFO] Registering Gui
+[INFO] Registered Gui
+[INFO] Registering Item Tooltip
+[INFO] Registered Item Tooltip
+[INFO] Registering blocks with Waila
+[INFO] Registered blocks with Waila
+[INFO] Registering entities with Waila
+[INFO] Registered entities with Waila
+[INFO] Registering Gui
+[INFO] Registered Gui
+[INFO] Registering item/block information with JEI
+[INFO] Registered item/block information with JEI - count: 39
