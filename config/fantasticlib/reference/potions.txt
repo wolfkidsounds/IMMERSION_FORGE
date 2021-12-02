@@ -25,6 +25,7 @@ minecraft:glowing
 minecraft:levitation
 minecraft:luck
 minecraft:unluck
+adpother:respirator_effect
 railcraft:creosote
 biomesoplenty:curse
 rustic:ironskin
