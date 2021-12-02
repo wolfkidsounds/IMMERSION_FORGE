@@ -5,9 +5,7 @@ print("Init: 'stackSize.zs'");
 val items = [
     <minecraft:potion>,
     <minecraft:splash_potion>,
-    <minecraft:lingering_potion>,
-    <firstaid:plaster>,
-    <firstaid:bandage>
+    <minecraft:lingering_potion>
 ] as IItemStack[];
 
 for item in items {
