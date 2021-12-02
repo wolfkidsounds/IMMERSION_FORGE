@@ -1,1 +1,0 @@
-<ftbquests:book>.displayName = "Journal";
