@@ -35,8 +35,13 @@ rustic:full
 rustic:magic_resistance
 rustic:wither_ward
 rustic:tipsy
-tetra:bleeding
-tetra:earthbound
+tconstruct:carry
+tconstruct:enderference
+tconstruct:insatiable
+tconstruct:magnetic
+tconstruct:momentum
+tconstruct:dot
+tconstruct:splinter
 immersiveengineering:flammable
 immersiveengineering:slippery
 immersiveengineering:conductive
@@ -56,7 +61,6 @@ simpledifficulty:thirsty
 simpledifficulty:parasites
 simpledifficulty:cold_resist
 simpledifficulty:heat_resist
-tektopia:village_bless
 immersiveintelligence:suppression
 immersiveintelligence:broken_armor
 immersiveintelligence:corrosion
