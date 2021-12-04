@@ -32,5 +32,4 @@ railcraft:wrecking
 railcraft:implosion
 railcraft:destruction
 railcraft:smack
-simpledifficulty:chilling
-simpledifficulty:heating
+oeintegration:oreexcavation
