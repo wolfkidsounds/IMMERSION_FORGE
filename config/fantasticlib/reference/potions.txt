@@ -27,8 +27,6 @@ minecraft:luck
 minecraft:unluck
 railcraft:creosote
 biomesoplenty:curse
-cyberware:neuropozyne
-cyberware:rejection
 rustic:ironskin
 rustic:feather
 rustic:blazing_trail
@@ -58,6 +56,7 @@ simpledifficulty:thirsty
 simpledifficulty:parasites
 simpledifficulty:cold_resist
 simpledifficulty:heat_resist
+tektopia:village_bless
 immersiveintelligence:suppression
 immersiveintelligence:broken_armor
 immersiveintelligence:corrosion
@@ -67,4 +66,3 @@ immersiveintelligence:well_supplied
 immersiveintelligence:concealed
 immersiveintelligence:medical_treatment
 immersiveintelligence:undergoing_repairs
-firstaid:morphine
