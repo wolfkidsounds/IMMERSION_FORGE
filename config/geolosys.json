@@ -1,94 +1,21 @@
 {
-	"ores": [
-		{
-			"blocks": [
-				"railcraft:ore",
-				100
-			],
-			"samples": [
-				"simpleoresamples:sampleblocksulfur",
-				100
-			],
-			"yMin": 20,
-			"yMax": 100,
-			"chance": 9,
-			"size": 36,
-			"dimBlacklist": [
-				-1,
-				1
-			],
-			"density": 1.0
-		},
-		{
-			"blocks": [
-				"immersiveintelligence:ore:3",
-				100
-			],
-			"samples": [
-				"simpleoresamples:sampleblocksalt",
-				100
-			],
-			"yMin": 20,
-			"yMax": 100,
-			"chance": 9,
-			"size": 36,
-			"dimBlacklist": [
-				-1,
-				1
-			],
-			"density": 1.0
-		},
-		{
-			"blocks": [
-				"magneticraft:ores:3",
-				100
-			],
-			"samples": [
-				"simpleoresamples:sampleblocktungsten",
-				100
-			],
-			"yMin": 20,
-			"yMax": 100,
-			"chance": 9,
-			"size": 36,
-			"dimBlacklist": [
-				-1,
-				1
-			],
-			"density": 1.0
-		},
-		{
-			"blocks": [
-				"immersive_energy:ore:0",
-				100
-			],
-			"samples": [
-				"simpleoresamples:sampleblockthorium",
-				100
-			],
-			"yMin": 20,
-			"yMax": 100,
-			"chance": 9,
-			"size": 36,
-			"dimBlacklist": [
-				-1,
-				1
-			],
-			"density": 1.0
-		},
-		{
+	"ores": [{
 			"blocks": [
 				"geolosys:ore_vanilla:0",
-				100
+				90,
+				"magneticraft:ores:3",
+				5,
+				"immersive_energy:ore:0",
+				5
 			],
 			"samples": [
-				"simpleoresamples:sampleblockcoal",
+				"geolosys:ore_sample_vanilla:0",
 				100
 			],
 			"yMin": 8,
 			"yMax": 78,
-			"chance": 8,
-			"size": 64,
+			"chance": 16,
+			"size": 80,
 			"dimBlacklist": [
 				-1,
 				1
@@ -101,13 +28,13 @@
 				100
 			],
 			"samples": [
-				"simpleoresamples:sampleblockredstone",
+				"geolosys:ore_sample_vanilla:1",
 				100
 			],
 			"yMin": 5,
 			"yMax": 12,
-			"chance": 7,
-			"size": 40,
+			"chance": 14,
+			"size": 60,
 			"dimBlacklist": [
 				-1,
 				1
@@ -120,13 +47,13 @@
 				100
 			],
 			"samples": [
-				"simpleoresamples:sampleblockgold",
+				"geolosys:ore_sample_vanilla:2",
 				100
 			],
 			"yMin": 5,
 			"yMax": 30,
-			"chance": 4,
-			"size": 40,
+			"chance": 8,
+			"size": 60,
 			"dimBlacklist": [
 				-1,
 				1
@@ -139,13 +66,13 @@
 				100
 			],
 			"samples": [
-				"simpleoresamples:sampleblocklapis",
+				"geolosys:ore_sample_vanilla:3",
 				100
 			],
 			"yMin": 10,
 			"yMax": 24,
-			"chance": 5,
-			"size": 32,
+			"chance": 10,
+			"size": 50,
 			"dimBlacklist": [
 				-1,
 				1
@@ -164,32 +91,13 @@
 				100
 			],
 			"samples": [
-				"simpleoresamples:sampleblockquartz",
+				"geolosys:ore_sample_vanilla:4",
 				100
 			],
 			"yMin": 6,
 			"yMax": 29,
-			"chance": 6,
-			"size": 40,
-			"dimBlacklist": [
-				-1,
-				1
-			],
-			"density": 1.0
-		},
-		{
-			"blocks": [
-				"geolosys:ore_vanilla:4",
-				100
-			],
-			"samples": [
-				"simpleoresamples:sampleblockcertusquartz",
-				100
-			],
-			"yMin": 6,
-			"yMax": 29,
-			"chance": 6,
-			"size": 40,
+			"chance": 12,
+			"size": 60,
 			"dimBlacklist": [
 				-1,
 				1
@@ -202,13 +110,13 @@
 				100
 			],
 			"samples": [
-				"simpleoresamples:sampleblockdiamond",
+				"geolosys:ore_sample_vanilla:5",
 				100
 			],
 			"yMin": 2,
 			"yMax": 15,
-			"chance": 3,
-			"size": 20,
+			"chance": 6,
+			"size": 40,
 			"dimBlacklist": [
 				-1,
 				1
@@ -221,13 +129,13 @@
 				100
 			],
 			"samples": [
-				"simpleoresamples:sampleblockemerald",
+				"geolosys:ore_sample_vanilla:6",
 				100
 			],
 			"yMin": 4,
 			"yMax": 32,
-			"chance": 3,
-			"size": 16,
+			"chance": 6,
+			"size": 32,
 			"dimBlacklist": [
 				-1,
 				1
@@ -249,13 +157,13 @@
 				100
 			],
 			"samples": [
-				"simpleoresamples:sampleblockiron",
+				"geolosys:ore_sample:0",
 				100
 			],
 			"yMin": 32,
 			"yMax": 60,
-			"chance": 6,
-			"size": 24,
+			"chance": 12,
+			"size": 38,
 			"dimBlacklist": [
 				-1,
 				1
@@ -268,20 +176,25 @@
 				100
 			],
 			"samples": [
-				"simpleoresamples:sampleblockiron",
-				50,
-				"simpleoresamples:sampleblocknickel",
-				50
+				"geolosys:ore_sample:1",
+				100
 			],
-			"yMin": 32,
-			"yMax": 60,
-			"chance": 6,
-			"size": 24,
+			"yMin": 6,
+			"yMax": 32,
+			"chance": 8,
+			"size": 80,
 			"dimBlacklist": [
 				-1,
 				1
 			],
-			"density": 1.0
+			"density": 1.0,
+			"biomes": [
+				"minecraft:swampland",
+				"minecraft:mutated_swampland",
+				"minecraft:mushroom_island",
+				"minecraft:mushroom_island_shore"
+			],
+			"isWhitelist": true
 		},
 		{
 			"blocks": [
@@ -291,14 +204,14 @@
 				60
 			],
 			"samples": [
-				"simpleoresamples:sampleblockcopper",
+				"geolosys:ore_sample:2",
 				40,
-				"simpleoresamples:sampleblockcopper",
+				"geolosys:ore_sample:3",
 				60
 			],
 			"yMin": 12,
 			"yMax": 44,
-			"chance": 4,
+			"chance": 8,
 			"size": 80,
 			"dimBlacklist": [
 				-1,
@@ -312,13 +225,13 @@
 				100
 			],
 			"samples": [
-				"simpleoresamples:sampleblocktin",
+				"geolosys:ore_sample:4",
 				100
 			],
 			"yMin": 44,
 			"yMax": 68,
-			"chance": 6,
-			"size": 24,
+			"chance": 12,
+			"size": 40,
 			"dimBlacklist": [
 				-1,
 				1
@@ -339,12 +252,12 @@
 				10
 			],
 			"samples": [
-				"simpleoresamples:sampleblocktin",
+				"geolosys:ore_sample:5",
 				100
 			],
 			"yMin": 8,
 			"yMax": 43,
-			"chance": 2,
+			"chance": 4,
 			"size": 80,
 			"dimBlacklist": [
 				-1,
@@ -362,14 +275,12 @@
 				100
 			],
 			"samples": [
-				"simpleoresamples:sampleblocksilver",
-				50,
-				"simpleoresamples:sampleblocklead",
-				50
+				"geolosys:ore_sample:6",
+				100
 			],
 			"yMin": 16,
 			"yMax": 50,
-			"chance": 6,
+			"chance": 12,
 			"size": 72,
 			"dimBlacklist": [
 				-1,
@@ -390,12 +301,12 @@
 				100
 			],
 			"samples": [
-				"simpleoresamples:sampleblockaluminum",
+				"geolosys:ore_sample:7",
 				100
 			],
 			"yMin": 45,
 			"yMax": 70,
-			"chance": 4,
+			"chance": 8,
 			"size": 64,
 			"dimBlacklist": [
 				-1,
@@ -422,15 +333,13 @@
 				100
 			],
 			"samples": [
-				"simpleoresamples:sampleblockplatinum",
-				50,
-				"simpleoresamples:sampleblockosmium",
-				50
+				"geolosys:ore_sample:8",
+				100
 			],
 			"yMin": 3,
 			"yMax": 25,
-			"chance": 4,
-			"size": 32,
+			"chance": 8,
+			"size": 50,
 			"dimBlacklist": [
 				-1,
 				1
@@ -454,13 +363,13 @@
 				15
 			],
 			"samples": [
-				"simpleoresamples:sampleblockuranium",
+				"geolosys:ore_sample:9",
 				100
 			],
 			"yMin": 8,
 			"yMax": 33,
-			"chance": 4,
-			"size": 48,
+			"chance": 8,
+			"size": 60,
 			"dimBlacklist": [
 				-1,
 				1
@@ -482,13 +391,13 @@
 				100
 			],
 			"samples": [
-				"simpleoresamples:sampleblockzinc",
+				"geolosys:ore_sample:10",
 				100
 			],
 			"yMin": 37,
 			"yMax": 46,
-			"chance": 5,
-			"size": 24,
+			"chance": 10,
+			"size": 40,
 			"dimBlacklist": [
 				-1,
 				1

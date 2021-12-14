@@ -133,4 +133,3 @@ biomesoplenty:fungi_forest
 biomesoplenty:phantasmagoric_inferno
 biomesoplenty:undergarden
 biomesoplenty:visceral_heap
-appliedenergistics2:storage_biome
