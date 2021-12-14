@@ -114,11 +114,6 @@ railcraft:locomotive_creative
 railcraft:cart_cargo
 railcraft:cart_tank
 railcraft:cart_chest_void
-quark:gravisand
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
 quark:stoneling
 quark:archaeologist
 quark:foxhound
@@ -129,6 +124,11 @@ quark:pirate
 quark:crab
 quark:wraith
 quark:seat
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
+quark:gravisand
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
