@@ -52,8 +52,3 @@ quark:long_resistance
 quark:strong_resistance
 quark:danger_sight
 quark:long_danger_sight
-simpledifficulty:cold_resist_type
-simpledifficulty:long_cold_resist_type
-simpledifficulty:heat_resist_type
-simpledifficulty:long_heat_resist_type
-tektopia:village_bless
